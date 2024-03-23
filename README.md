@@ -1,5 +1,17 @@
 # Data-Viz 
 
+## Hello All! 
+
+### Here are a few examples of vizualization that I created using Tableau and Altair! I hope you like it :) 
+
+## Hosted on Tableau Public - 
+
+link: https://public.tableau.com/app/profile/shreya.jain6648/vizzes
+
+## Deployed on hugginface -
+
+https://huggingface.co/spaces/ShreyaJain04/si649_panel
+
 ![1](https://github.com/JainShreya26/Data-Viz.-/assets/74126218/51e008a9-5a3b-4214-8fda-52496ee9870a)
 
 ![2](https://github.com/JainShreya26/Data-Viz.-/assets/74126218/6f1b2cb3-dacf-4b99-a768-30250d981fa6)
@@ -39,13 +51,7 @@ https://github.com/JainShreya26/Data-Viz.-/assets/74126218/fbfcfd35-8a17-486d-a1
 
 ![image](https://github.com/JainShreya26/Data-Viz.-/assets/74126218/9f93dcad-1199-420f-af72-6b2e3e01d824)
 
-## Hosted on Tableau Public - 
 
-link: https://public.tableau.com/app/profile/shreya.jain6648/vizzes
-
-## Deployed on hugginface -
-
-https://huggingface.co/spaces/ShreyaJain04/si649_panel
 
 
 
