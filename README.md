@@ -43,6 +43,10 @@ https://github.com/JainShreya26/Data-Viz.-/assets/74126218/fbfcfd35-8a17-486d-a1
 
 link: https://public.tableau.com/app/profile/shreya.jain6648/vizzes
 
+## Deployed on hugginface -
+
+https://huggingface.co/spaces/ShreyaJain04/si649_panel
+
 
 
 
