@@ -2,7 +2,7 @@
 
 ## Hello All! 
 
-### Here are a few examples of vizualization that I created using Tableau and Altair! I hope you like it :) 
+### Here are a few examples of vizualizations that I created using Tableau and Altair! I hope you like it :) 
 
 ## Hosted on Tableau Public - 
 
