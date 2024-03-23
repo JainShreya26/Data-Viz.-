@@ -12,3 +12,7 @@ https://github.com/JainShreya26/Data-Viz.-/assets/74126218/fe39af2f-cf9f-49fd-ae
 
 https://github.com/JainShreya26/Data-Viz.-/assets/74126218/fbfcfd35-8a17-486d-a1da-316c5d4cde3f
 
+
+TABLEAU 
+
+![image.png](attachment:image.png)
