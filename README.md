@@ -39,9 +39,6 @@ https://github.com/JainShreya26/Data-Viz.-/assets/74126218/fbfcfd35-8a17-486d-a1
 ![image](https://github.com/JainShreya26/Data-Viz.-/assets/74126218/b64a1678-ad27-4c5f-a40e-17480dd3ba46)
 
 
-![image](https://github.com/JainShreya26/Data-Viz.-/assets/74126218/23a0ad9b-aeab-4405-bf70-7f1e02166b40)
-
-
 ![image](https://github.com/JainShreya26/Data-Viz.-/assets/74126218/19fe2bc2-dcce-496a-902e-9bd0dd1854d8)
 
 
