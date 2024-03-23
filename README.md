@@ -6,3 +6,9 @@
 
 https://github.com/JainShreya26/Data-Viz.-/assets/74126218/bc5ba12c-e048-4bea-9388-766db653b36a
 
+https://github.com/JainShreya26/Data-Viz.-/assets/74126218/fa1a8ecd-58a3-4a18-a6d7-c0c4f69bbdd4
+
+https://github.com/JainShreya26/Data-Viz.-/assets/74126218/fe39af2f-cf9f-49fd-aeab-b4d673a5939f
+
+https://github.com/JainShreya26/Data-Viz.-/assets/74126218/fbfcfd35-8a17-486d-a1da-316c5d4cde3f
+
