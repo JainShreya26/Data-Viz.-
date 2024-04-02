@@ -4,7 +4,7 @@
 
 ### Here are a few examples of vizualizations that I created using Tableau and Altair! I hope you like it :) 
 
-## Soccer Analysis Dashboard:
+## Interactive Soccer Analysis Dashboard:
 
 ### https://public.tableau.com/app/profile/shreya.jain6648/viz/Sci_Vizualization_Soccer_Analysis/Dashboard1
 
